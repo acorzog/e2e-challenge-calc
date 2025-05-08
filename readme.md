@@ -70,10 +70,10 @@ After completing the challenge, please follow these steps to submit your work fo
 The application contains several intentionally inserted bugs (as confirmed). I’ve commented out some assertions to avoid overwhelming failures during execution, but I’ve left key failing validations in place to demonstrate that the tests correctly identify defects.
 I’ve implemented two different test strategies, both using the Page Object Model, to showcase flexibility and good testing practices:
 
-Data-Driven Tests
+1. Data-Driven Tests
 Used for features like add, subtract, multiply, divide, and mixed-operations. These tests validate consistent logic (e.g., arithmetic) using a tabular format of inputs and expected outputs. This makes it easy to expand or replace values without rewriting test logic.
 
-Explicit Step-by-Step Tests
+2. Explicit Step-by-Step Tests
 Applied to clear, percent, and plus-minus features. These tests involve more detailed behaviors, where each test case represents a meaningful variation or side effect. The step-by-step approach offers clarity for debugging and helps document expected workflows more precisely.
 
 
