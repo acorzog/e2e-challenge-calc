@@ -4,6 +4,7 @@
 2. [Installation](#installation)
 3. [Running the App](#running-the-app)
 6. [Instructions](#instructions)
+6. [Playwright](#for-playwright-details-use-this-instruction-file)
 
 ---
 
@@ -63,3 +64,7 @@ After completing the challenge, please follow these steps to submit your work fo
 ---
 
 **Happy Testing!**
+
+# For Playwright details use this Instruction file
+
+See [INSTRUCTIONS.md](./INSTRUCTIONS.md) for setup and usage details.
